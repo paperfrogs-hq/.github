@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](github_banner-03.jpg)
+![Paperfrog Banner](github_banner-03.jpg)
 
 # Paperfrogs
 
@@ -21,15 +21,15 @@ Not a company. Not a startup. Just a home for small, slow, meaningful work.
 
 ## Philosophy
 
-We build not for scale, but for clarity.  
-Not for noise, but for stillness.  
-Tools that feel like they were left on your desk by someone who cares.
+-We build not for scale, but for clarity.  
+-Not for noise, but for stillness.  
+-Tools that feel like they were left on your desk by someone who cares.
 
 ---
 
 ## Status
 
-Phase: Early development  
+Phase: **Early development**  
 Stability: Expect changes, experiments, and occasional whimsy  
 Production use: Not yet - we'll let our users to explore it when it gets ready  
 Contributions: Gentle, intentional, and always appreciated
