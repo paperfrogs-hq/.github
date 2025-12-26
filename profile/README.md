@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://via.placeholder.com/1280x360/FE5E41/0B0500?text=Paperfrogs+HQ)
+![Banner](github_banner-03.jpg)
 
 # paperfrogs-hq
 
