@@ -49,16 +49,6 @@ All repositories are minimal, well-documented, and designed to be forked, not me
 
 ---
 
-## Documentation & Guides
-
-Start here:
-
-- [Developer Guide](./docs/developer-guide.md) — how we think about tools  
-- [Theme System](./docs/theme-system.md) — creamy palettes for your editor  
-- [AI Experiments Log](./docs/ai-experiments.md) — what we’re trying, why, and what failed
-
----
-
 <div align="center">
 
 [↑ back to top](#paperfrogs-hq) ·  
