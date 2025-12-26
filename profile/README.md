@@ -2,7 +2,7 @@
 
 ![Banner](github_banner-03.jpg)
 
-# paperfrogs-hq
+# Paperfrogs
 
 A quiet place for thoughtful tools, gentle code, and latent ideas.  
 Not a company. Not a startup. Just a home for small, slow, meaningful work.
