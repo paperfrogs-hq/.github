@@ -28,7 +28,7 @@ We build tools for things that matter.
 
 ---
 
-## Projects We're Working on:
+## Projects:
 
 We are building long-term, infrastructure-first projects focused on real-world use, research-driven exploration, and production-ready systems. Our work spans embedded infrastructure, experimental research, and applied tooling—developed openly and iteratively over time.
 
@@ -37,4 +37,4 @@ We are building long-term, infrastructure-first projects focused on real-world u
 - TBA
 
 
-> — Paperfrog Devs
+> — Paperfrogs Devs
