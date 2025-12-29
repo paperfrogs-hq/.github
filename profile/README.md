@@ -32,8 +32,8 @@ We build tools for things that matter.
 
 We are building long-term, infrastructure-first projects focused on real-world use, research-driven exploration, and production-ready systems. Our work spans embedded infrastructure, experimental research, and applied tooling—developed openly and iteratively over time.
 
-- **[Fusion](https://playfusion.netlify.app/) - Audio Provenance & Verification Infrastructure**  (since 2023 - Present) - 
-   A Rust-based audio engine for embedding cryptographically signed, inaudible watermarks at creation time, paired with a Python coded verification system for detection, validation, confidence scoring, and audit logging.
+- **[Fusion](https://fusion.paperfrogs.dev/) - Audio Provenance & Verification Infrastructure**  (since 2023 - Present) - 
+   A Rust-based audio engine for embedding cryptographically signed, inaudible watermarks at creation time, paired with a python coded verification system for detection, validation, confidence scoring, and audit logging for the Post-Internet Era.
 - TBA
 
 
